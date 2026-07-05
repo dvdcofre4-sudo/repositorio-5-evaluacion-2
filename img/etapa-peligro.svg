@@ -1,0 +1,7 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" rx="20" fill="#f8d7da"></rect>
+  <circle cx="150" cy="85" r="50" fill="#dc3545"></circle>
+  <path d="M130 65 L170 105" stroke="white" stroke-width="10" stroke-linecap="round"></path>
+  <path d="M170 65 L130 105" stroke="white" stroke-width="10" stroke-linecap="round"></path>
+  <text x="150" y="165" text-anchor="middle" font-size="22" fill="#842029" font-family="Arial">Peligro</text>
+</svg>

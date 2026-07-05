@@ -1,0 +1,6 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" rx="20" fill="#e7f1ff"></rect>
+  <circle cx="150" cy="80" r="45" fill="#0d6efd"></circle>
+  <path d="M125 82 L143 100 L178 58" stroke="white" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+  <text x="150" y="160" text-anchor="middle" font-size="22" fill="#0d6efd" font-family="Arial">Estado Normal</text>
+</svg>
