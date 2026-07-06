@@ -34,7 +34,7 @@ function actualizarDashboard() {
     cambiarClases("primary");
 
     cardHeader.textContent = "Estado normal";
-    cardImagen.textContent = "🟦";
+    cardImagen.src = "img/sistema-normal.svg";
     cardTitulo.textContent = "Sistema en estado normal";
     cardDescripcion.textContent = "El sistema está funcionando correctamente. El contador se encuentra en una zona segura.";
   }
@@ -44,7 +44,7 @@ function actualizarDashboard() {
     cambiarClases("warning");
 
     cardHeader.textContent = "Estado de advertencia";
-    cardImagen.textContent = "🟨";
+    cardImagen.src = "img/sistema-alerta.svg";
     cardTitulo.textContent = "Sistema en estado de alerta";
     cardDescripcion.textContent = "El contador bajó a una zona intermedia. Se recomienda prestar atención al estado del sistema.";
   }
@@ -54,7 +54,7 @@ function actualizarDashboard() {
     cambiarClases("danger");
 
     cardHeader.textContent = "Estado crítico";
-    cardImagen.textContent = "🟥";
+    cardImagen.src = "img/sistema-critico.svg";
     cardTitulo.textContent = "Sistema en estado de peligro";
     cardDescripcion.textContent = "El contador está en una zona crítica. El sistema debe reiniciarse al llegar al final.";
   }
