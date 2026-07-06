@@ -18,7 +18,7 @@ formLogin.addEventListener("submit", function (event) {
 
   // Validación de campos vacíos
   if (usuario === "" || password === "") {
-    logoLogin.textContent = "⚠️";
+    logoLogin.src = "img/acceso-error.svg";
     mostrarAlerta("warning", "El campo usuario o contraseña está vacío.");
     return;
   }
@@ -28,7 +28,7 @@ formLogin.addEventListener("submit", function (event) {
     window.location.href = "dashboard.html";
   } else {
     // Validación incorrecta
-    logoLogin.textContent = "❌";
+    logoLogin.src = "img/acceso-error.svg";
     mostrarAlerta("danger", "Error en la autentificación. Usuario o contraseña incorrectos.");
   }
 });
