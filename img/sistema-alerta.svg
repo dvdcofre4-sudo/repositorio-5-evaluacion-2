@@ -1,0 +1,9 @@
+<svg width="420" height="260" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="260" rx="28" fill="#FFF3CD"/>
+  <rect x="95" y="58" width="230" height="125" rx="18" fill="white" stroke="#FFC107" stroke-width="8"/>
+  <path d="M210 76 L266 166 H154 Z" fill="#FFC107"/>
+  <rect x="205" y="108" width="10" height="38" rx="5" fill="#212529"/>
+  <circle cx="210" cy="157" r="7" fill="#212529"/>
+  <rect x="145" y="195" width="130" height="16" rx="8" fill="#FFC107" opacity="0.55"/>
+  <text x="210" y="235" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#856404">ADVERTENCIA</text>
+</svg>

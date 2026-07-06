@@ -1,0 +1,8 @@
+<svg width="420" height="260" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="260" rx="28" fill="#EAF2FF"/>
+  <rect x="95" y="58" width="230" height="125" rx="18" fill="white" stroke="#0D6EFD" stroke-width="8"/>
+  <rect x="145" y="195" width="130" height="16" rx="8" fill="#0D6EFD" opacity="0.4"/>
+  <circle cx="210" cy="120" r="38" fill="#0D6EFD"/>
+  <path d="M190 121 L204 136 L232 103" stroke="white" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="210" y="235" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#0D6EFD">ESTADO NORMAL</text>
+</svg>

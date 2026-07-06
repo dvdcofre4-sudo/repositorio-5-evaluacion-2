@@ -1,0 +1,9 @@
+<svg width="420" height="260" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="260" rx="28" fill="#F8D7DA"/>
+  <rect x="95" y="58" width="230" height="125" rx="18" fill="white" stroke="#DC3545" stroke-width="8"/>
+  <circle cx="210" cy="122" r="45" fill="#DC3545"/>
+  <path d="M188 100 L232 144" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <path d="M232 100 L188 144" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <rect x="145" y="195" width="130" height="16" rx="8" fill="#DC3545" opacity="0.45"/>
+  <text x="210" y="235" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#842029">ESTADO CRÍTICO</text>
+</svg>
