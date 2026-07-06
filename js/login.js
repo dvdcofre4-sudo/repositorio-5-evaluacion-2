@@ -1,6 +1,6 @@
 // Usuario y contraseña guardados en memoria
-const usuarioGuardado = "admin";
-const passwordGuardada = "1234";
+const usuarioGuardado = "David";
+const passwordGuardada = "David2002";
 
 // Capturamos los elementos del HTML
 const formLogin = document.getElementById("formLogin");
